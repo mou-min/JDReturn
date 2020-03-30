@@ -1,8 +1,8 @@
 <?php
 /*京东自定义配置相关信息开始*/
-define("APP_KEY", "");   # JD appkey
+define("APP_KEY", "ee9f091148a373910bba504ce9a9eb5a");   # JD appkey
 define("APP_SECRET_KEY", ""); # JD secretkey
-define("API_SITE_ID", "");   # JD 推广网站 ID
+define("API_SITE_ID", "3000011261");   # JD 推广网站 ID
 /*京东自定义配置相关信息结束*/
 
 define("API_GOODS", "jd.union.open.goods.promotiongoodsinfo.query");
